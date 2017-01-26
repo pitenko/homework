@@ -1,9 +1,15 @@
 'first' 
 '+second' 
 <<<<<<< HEAD
+<<<<<<< HEAD
 'third_m' 
 'fourth_m' 
 'fifth_m' 
+=======
+'third_nf' 
+'fourth_nf' 
+'fifth_nf' 
+>>>>>>> nice_feature
 =======
 'third_nf' 
 'fourth_nf' 
